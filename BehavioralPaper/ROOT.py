@@ -5,4 +5,4 @@
 #Example in Linux:   root = r"/data/TimePaper2019/"
 #Example in Windows: root = r"D:\DATA\TimePaper2019\"
 
-root = r"/data/TimePaper2019/"
+root = r"/data"
